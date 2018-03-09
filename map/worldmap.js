@@ -152,7 +152,7 @@
 			lng: -102.5528,
 			color: 'green',
 			img: 'mexicocity',
-			url: 'http://students.washington.edu/yjg/YJCHProject/Game/index.html?'
+			url: 'http://students.washington.edu/yjg/YJCHProject/Game/index.html'
 
 		},
 	}
